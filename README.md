@@ -4,10 +4,9 @@
 It's easy to introduce the mvvmcross at xamarin.android 
 
 
-![alt tag](https://github.com/eggeggss/MvvmCrossExample/blob/master/mvvm.jpg)
+![alt tag](https://github.com/eggeggss/MvvmCrossExample/blob/master/mvvmcross.gif)
 
 
-![alt tag](https://github.com/eggeggss/MvvmCrossExample/blob/master/08.gif)
 
 
 
